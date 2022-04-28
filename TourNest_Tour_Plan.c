@@ -1,6 +1,6 @@
 
-/*Team Name   : Tournest
-  Project Name: Tour Plan */
+/*Project Name   : Tournest
+  About: Tour Plan */
 
 
 #include <stdio.h>
